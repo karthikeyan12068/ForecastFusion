@@ -1,11 +1,11 @@
 const request=require('request')
 const yargs=require('yargs')
-var url='http://api.weatherstack.com/current?access_key=164890d8405cff58a14de573b1b8863a&query='
+var url='http://api.weatherstack.com/current?access_key=164890d8405cff58a14de573b1b8864a&query='
 
 var tempurl=url
 
 
-var url1='http://us1.locationiq.com/v1/search?key=pk.63917e3e9c736eb305aaa56b57aae3e8&q='
+var url1='http://us1.locationiq.com/v1/search?key=pk.63917e3e9c736eb305aaa56b57aae3e8&r='
 var temp=url1
 //geocoding
 
